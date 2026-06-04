@@ -1,5 +1,5 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
+title: "Clipping vector data in ArcGIS Pro"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
 url: "https://MDLutoronto.github.io/clipping-vector-data-in-arcgis-pro" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/clipping-vector-data-in-arcgis-pro" # for github-metadata
